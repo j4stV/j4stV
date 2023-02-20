@@ -2,30 +2,31 @@
 <!-- Name and Profession -->
 <div align="center">
 
-# Vyacheslav Vetrov
+# Вячеслав Ветров
 
 </div>
 
 <div align="center">
   <picture>
     <source 
-      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=5000&pause=2000&color=FFFFFF&center=true&width=470&lines=Product+Analyst"
+      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=FFFFFF&center=true&width=470&lines=Продуктовый Аналитик"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=5000&pause=2000&color=000000&center=true&width=470&lines=Product+Analyst"
+      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=000000&center=true&width=470&lines=Продуктовый Аналитик"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=5000&pause=2000&color=FFFFFF&center=true&width=470&lines=Product+Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=FFFFFF&center=true&width=470&lines=Продуктовый Аналитик" />
   </picture>
   
 </div>
 
-
-
+<div>
+Я занимаюсь Data Scince и анализом данных более двух лет, реализовал более 7 реальных проектов в ритейле, страховании, рекламе и других областях. Уверенно владею Python, SQL и другими необходимыми инструментами. Обладаю продуктовым мышлением и очень быстро обучаюсь новому.
+</div>
 
 <!-- Skills -->
-## Languages and tools 🔧
+## Используемый стек 🔧
 
 <div align="center">
 
@@ -40,12 +41,12 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b163b?style=for-the-badge&logo=Apache%20Airflow)
 ![Redash](https://img.shields.io/badge/Redash-0b163b?style=for-the-badge&logo=Redash)
 ![Tableau](https://img.shields.io/badge/Tableau-0b163b?style=for-the-badge&logo=Tableau)
-![A/B Testing](https://img.shields.io/badge/A/B%20Testing-0b163b?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-0b163b?style=for-the-badge)
-![Unit-economics](https://img.shields.io/badge/Unit--economics-0b163b?style=for-the-badge)
+![A/B тестирование](https://img.shields.io/badge/A/B%20тестирование-0b163b?style=for-the-badge)
+![Статистика](https://img.shields.io/badge/Статистика-0b163b?style=for-the-badge)
+![Юнит-экономика](https://img.shields.io/badge/Юнит--экономика-0b163b?style=for-the-badge)
 
 
- ## Contact me ✉️
+ ## Контакты ✉️
 
 <div align="center">
 
