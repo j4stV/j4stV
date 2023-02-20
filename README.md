@@ -44,7 +44,7 @@
 ![A/B тестирование](https://img.shields.io/badge/A/B%20тестирование-0b163b?style=for-the-badge)
 ![Статистика](https://img.shields.io/badge/Статистика-0b163b?style=for-the-badge)
 ![Юнит-экономика](https://img.shields.io/badge/Юнит--экономика-0b163b?style=for-the-badge)
-
+</div>
 
  ## Контакты ✉️
 
