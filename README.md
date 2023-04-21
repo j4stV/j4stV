@@ -48,7 +48,7 @@
 
 ## Мои проекты
 ### Проекты по анализу данных (Python):
- - [Data Analysis Projects](https://github.com/justlcoder/Data-analysis) - Репозиторий с различными мини-проектами по аналитизу данных, математической статистике и др.
+ - [Data Analysis Projects](https://github.com/justlcoder/Data-analysis) - Репозиторий с различными мини-проектами по анализу данных, математической статистике и др.
  - [Game research](https://nbviewer.jupyter.org/github/justlcoder/Game_Research/blob/main/analysis.ipynb) – Проект по аналитике данных. Включает три различных задания на анализ данных, A/B тесты и выбор метрик для оценки эксперимента с заданными условиями.
  - [Web Analytics](https://nbviewer.jupyter.org/github/justlcoder/Portfolio/blob/main/web_analytics.ipynb) – Простая аналитика через Яндекс.Метрику и Google Docs, работа с API.
 
