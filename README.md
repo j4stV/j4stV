@@ -46,7 +46,7 @@
 ![Юнит-экономика](https://img.shields.io/badge/Юнит--экономика-0b163b?style=for-the-badge)
 </div>
 
-## Мои проекты
+## Мои open-source проекты
 ### Проекты по анализу данных (Python):
  - [Data Analysis Projects](https://github.com/justlcoder/Data-analysis) - Репозиторий с различными мини-проектами по анализу данных, математической статистике и др.
  - [Game research](https://nbviewer.jupyter.org/github/justlcoder/Game_Research/blob/main/analysis.ipynb) – Проект по аналитике данных. Включает три различных задания на анализ данных, A/B тесты и выбор метрик для оценки эксперимента с заданными условиями.
