@@ -31,6 +31,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0b163b?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0b163b?style=for-the-badge)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-0b163b?style=for-the-badge&logo=clickhouse)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0b163b?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-0b163b?style=for-the-badge&logo=Pandas)
