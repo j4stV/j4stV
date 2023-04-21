@@ -9,11 +9,11 @@
 <div align="center">
   <picture>
     <source 
-      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=FFFFFF&center=true&width=470&lines=Data Scientist/Product Analyst"
+      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=FFFFFF&center=true&width=470&lines=Middle Data Scientist/Product Analyst"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=000000&center=true&width=470&lines=Data Scientist/Product Analyst"
+      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=000000&center=true&width=470&lines=Middle Data Scientist/Product Analyst"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5000&pause=2000&color=FFFFFF&center=true&width=470&lines=Продуктовый Аналитик" />
