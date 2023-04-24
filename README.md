@@ -49,21 +49,22 @@
 
 ## Мои open-source проекты
 ### Проекты по анализу данных (Python):
- - [Data Analysis Projects](https://github.com/justlcoder/Data-analysis) - Репозиторий с различными мини-проектами по анализу данных, математической статистике и др.
+ - [Data Analysis Projects](https://github.com/justlcoder/Data-analysis) - Репозиторий с различными мини-проектами по анализу данных, математической статистике и др. <br/>
  **Стек**: Python и библиотеки.
- - [Game research](https://nbviewer.jupyter.org/github/justlcoder/Game_Research/blob/main/analysis.ipynb) – Проект по аналитике данных. Включает три различных задания на анализ данных, A/B тесты и выбор метрик для оценки эксперимента с заданными условиями. 
+ - [Game research](https://nbviewer.jupyter.org/github/justlcoder/Game_Research/blob/main/analysis.ipynb) – Проект по аналитике данных. Включает три различных задания на анализ данных, A/B тесты и выбор метрик для оценки эксперимента с заданными условиями.  <br/>
  **Стек**: Python, Статистика.
- - [Web Analytics](https://nbviewer.jupyter.org/github/justlcoder/Portfolio/blob/main/web_analytics.ipynb) – Простая аналитика через Яндекс.Метрику и Google Docs, работа с API. 
+ - [Web Analytics](https://nbviewer.jupyter.org/github/justlcoder/Portfolio/blob/main/web_analytics.ipynb) – Простая аналитика через Яндекс.Метрику и Google Docs, работа с API. <br/>
  **Стек**: Python, Яндекс.Метрика API, Google Sheets.
 
 ### Проекты по визуализации данных:
  - [Dashboard for sales department
-](http://redash.lab.karpov.courses/public/dashboards/f90cCFSN6DxHnHSyuB9iMQeQcVDoHw5DoOBxRs1r?org_slug=default) – Дашборд для отдела продаж, включающий в себя ключевые метрики, а также товарный анализ и гео-аналитику. **Стек**: Redash, PostgreSQL.
+](http://redash.lab.karpov.courses/public/dashboards/f90cCFSN6DxHnHSyuB9iMQeQcVDoHw5DoOBxRs1r?org_slug=default) – Дашборд для отдела продаж, включающий в себя ключевые метрики, а также товарный анализ и гео-аналитику. <br/>
+**Стек**: Redash, PostgreSQL.
 
 ### Машинное обучение:
- - [Russian reading comprehension with Commonsense reasoning](https://github.com/justlcoder/AI_nti) - В этом репозитории решение известной задачи NLP - [RuCoS](https://russiansuperglue.com/ru/tasks/task_info/RuCoS), разработанное совместно мной и моей коллегой в рамках олимпиады НТИ, профиль Искуственный Интеллект. 
+ - [Russian reading comprehension with Commonsense reasoning](https://github.com/justlcoder/AI_nti) - В этом репозитории решение известной задачи NLP - [RuCoS](https://russiansuperglue.com/ru/tasks/task_info/RuCoS), разработанное совместно мной и моей коллегой в рамках олимпиады НТИ, профиль Искуственный Интеллект. <br/>
  **Стек**: Python, transformers.
- - [Stock Overview](https://github.com/justlcoder/Stock_Overview) – Телеграм-бот для прогнозирования цен иностранных акций. Старый проект, цены акций могут быть не актульны и не являются индивидуальной инвестиционной рекомендацией. (try it: [@Stock_overview_bot](https://t.me/Stock_overview_bot)). 
+ - [Stock Overview](https://github.com/justlcoder/Stock_Overview) – Телеграм-бот для прогнозирования цен иностранных акций. Старый проект, цены акций могут быть не актульны и не являются индивидуальной инвестиционной рекомендацией. (try it: [@Stock_overview_bot](https://t.me/Stock_overview_bot)). <br/>
  **Стек**: Python
 
 
