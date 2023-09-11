@@ -22,7 +22,7 @@
 </div>
 
 <div>
-Я занимаюсь Data Scince и анализом данных более двух лет, реализовал более 7 реальных проектов в ритейле, страховании, рекламе и других областях. Уверенно владею Python, SQL и другими необходимыми инструментами. Обладаю продуктовым мышлением и очень быстро обучаюсь новому.
+Я занимаюсь Data Scince и анализом данных более двух лет, реализовал более 7 реальных проектов в ритейле, страховании, рекламе и других областях. Уверенно владею Python, SQL и другими необходимыми инструментами аналитика. Обладаю продуктовым мышлением и очень быстро обучаюсь новому.
 </div>
 
 <!-- Skills -->
@@ -31,7 +31,9 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0b163b?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0b163b?style=for-the-badge)
+![A/B тестирование](https://img.shields.io/badge/A/B%20тестирование-0b163b?style=for-the-badge)
+![Статистика](https://img.shields.io/badge/Статистика-0b163b?style=for-the-badge)
+![Юнит-экономика](https://img.shields.io/badge/Юнит--экономика-0b163b?style=for-the-badge)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-0b163b?style=for-the-badge&logo=clickhouse)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0b163b?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-0b163b?style=for-the-badge&logo=Pandas)
@@ -42,9 +44,8 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b163b?style=for-the-badge&logo=Apache%20Airflow)
 ![Redash](https://img.shields.io/badge/Redash-0b163b?style=for-the-badge&logo=Redash)
 ![Tableau](https://img.shields.io/badge/Tableau-0b163b?style=for-the-badge&logo=Tableau)
-![A/B тестирование](https://img.shields.io/badge/A/B%20тестирование-0b163b?style=for-the-badge)
-![Статистика](https://img.shields.io/badge/Статистика-0b163b?style=for-the-badge)
-![Юнит-экономика](https://img.shields.io/badge/Юнит--экономика-0b163b?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-0b163b?style=for-the-badge&logo=PowerBI)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0b163b?style=for-the-badge)
 </div>
 
 ## Мои open-source проекты 💼
